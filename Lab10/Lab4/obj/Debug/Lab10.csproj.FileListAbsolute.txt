@@ -1,0 +1,14 @@
+D:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.exe.config
+D:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.exe
+D:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.pdb
+D:\ПТПО\Lab10\Lab4\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\ПТПО\Lab10\Lab4\obj\Debug\Lab4.exe
+D:\ПТПО\Lab10\Lab4\obj\Debug\Lab4.pdb
+E:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.exe.config
+E:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.exe
+E:\ПТПО\Lab10\Lab4\bin\Debug\Lab4.pdb
+E:\ПТПО\Lab10\Lab4\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\ПТПО\Lab10\Lab4\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+E:\ПТПО\Lab10\Lab4\obj\Debug\Lab4.exe
+E:\ПТПО\Lab10\Lab4\obj\Debug\Lab4.pdb
+D:\ПТПО\Lab10\Lab4\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
