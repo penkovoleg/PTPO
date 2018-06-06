@@ -1,0 +1,14 @@
+F:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.exe.config
+F:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.exe
+F:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.pdb
+F:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+F:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+F:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.exe
+F:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\ПТПО\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\ПТПО\Lab5\Lab5\obj\Debug\Lab5.pdb
